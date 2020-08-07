@@ -1,0 +1,1 @@
+Here we find top text features in content about contraception on official health websites. We have used tf-df to rank the top features, since when the corpus contains related articles, tf-idf sometimes downweighs important terms. 
